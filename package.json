@@ -1,0 +1,15 @@
+{
+  "name": "darcula-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The Darcula theme is a native on PhpStorm",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/rafaelstz/darcula-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
